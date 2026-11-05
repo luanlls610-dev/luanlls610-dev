@@ -5,8 +5,8 @@ Atuo como Técnico de Informática Pleno em Brasília. Quando não estou no VS C
 
 ### 📊 As minhas Estatísticas
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luanlls610-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Luan" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanlls610-dev&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=luanlls610-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Luan" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanlls610-dev&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 ### 🚀 Tech Stack
