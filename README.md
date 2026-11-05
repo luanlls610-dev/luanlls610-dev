@@ -6,9 +6,9 @@ Atuo como Técnico de Informática Pleno em Brasília. Quando não estou no VS C
 
 ### 📊 As minhas Estatísticas
 
-![Estatísticas do Luan](https://github-readme-stats.vercel.app/api?username=luanlls610-dev&show_icons=true&theme=tokyonight)
+![Estatísticas do Luan](https://github-readme-stats.vercel.app/api?username=luanlls610-dev&show_icons=true&theme=tokyonight&v=1)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luanlls610-dev&layout=compact&langs_count=6&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luanlls610-dev&layout=compact&langs_count=6&theme=tokyonight&v=1)
 
 ### 🚀 Tech Stack
 `Python` `PowerShell` `Firebase` `Vercel` `Playwright`
